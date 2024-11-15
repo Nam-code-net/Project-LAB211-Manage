@@ -1,0 +1,4 @@
+2,python,short term,syntax,12
+3,excel,short term,use table,10
+4,C sharp,short term,hello world,5
+5,C plus,long term,Basic,12
